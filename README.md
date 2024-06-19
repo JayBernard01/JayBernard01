@@ -7,6 +7,9 @@
 - Restalo: Système de réservation de restaurants
 - RéseauPartage: Réseau social
 - UFood: Carte intéractive des restaurants de Québec
+- ...et bien plus!
+### Projet bénévole
+- CrateMe!: gestion d'inventaire infonuagique pour MonÉquilibre ULaval
 
 <!--
 **JayBernard01/JayBernard01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
