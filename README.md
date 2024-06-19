@@ -1,4 +1,7 @@
 ## Hi there 👋
+### Écrivez-moi par courriel ou sur LinkedIn pour avoir accès à mes projets d'études
+- courriel: jeremie.bernard.1@ulaval.ca
+- linkdin: https://www.linkedin.com/in/jeremiebernard-linkdin/
 
 <!--
 **JayBernard01/JayBernard01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
