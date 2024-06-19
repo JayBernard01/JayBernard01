@@ -1,7 +1,7 @@
 ## Hi there 👋
 ### Écrivez-moi par courriel ou sur LinkedIn pour avoir accès à mes projets d'études
 - courriel: jeremie.bernard.1@ulaval.ca
-- linkdin: https://www.linkedin.com/in/jeremiebernard-linkdin/
+- LinkedIn: https://www.linkedin.com/in/jeremiebernard-linkdin/
 ### Liste de projets d'études
 - ChalCLT: Constructeur de chalet sur mesure STL
 - Restalo: Système de réservation de restaurants
