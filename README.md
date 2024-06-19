@@ -2,6 +2,11 @@
 ### Écrivez-moi par courriel ou sur LinkedIn pour avoir accès à mes projets d'études
 - courriel: jeremie.bernard.1@ulaval.ca
 - linkdin: https://www.linkedin.com/in/jeremiebernard-linkdin/
+### Liste de projets d'études
+- ChalCLT: Constructeur de chalet sur mesure STL
+- Restalo: Système de réservation de restaurants
+- RéseauPartage: Réseau social
+- UFood: Carte intéractive des restaurants de Québec
 
 <!--
 **JayBernard01/JayBernard01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
