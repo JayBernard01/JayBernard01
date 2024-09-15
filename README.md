@@ -13,12 +13,21 @@ Finissant du Baccalauréat en Génie Logiciel (décembre 2025), je suis à la re
 ### Formations complémentaires (en cours)
 - [AWS Certified Solutions Architect - Associate](https://aws.amazon.com/certification/certified-solutions-architect-associate/)
 - [Certified Kubernetes Administrator (CKA)](https://training.linuxfoundation.org/certification/certified-kubernetes-administrator-cka/)
+### Stages en informatique
+- Informatique médicale (Inst. Univ. Cardiologie et de Pneumologie de Québec) -	été 2024 - DevOps (Docker, Kubernetes/OpenShift, Pipelines, Django, Python) 
+- Administrateur des bases de données (Ministère de la Justice du Québec) -	été 2023 - Full Stack (C#, .NET, Blazor, Cloud Azure, SQL Server) et DBA
 ### Liste de projets d'études
 - ChalCLT: Constructeur de chalet sur mesure STL
 - Restalo: Système de réservation de restaurants
 - RéseauPartage: Réseau social
 - UFood: Carte intéractive des restaurants de Québec
 - ...et bien plus!
+### Compétences en informatique:
+-	Infonuagique: AWS, Azure, OpenTofu (HCL)
+-	Langages: Rust, C++, Python, SQL, C#, Java, JavaScript/HTML/CSS
+-	Technologies: Docker, Kubernetes, Pipelines, Linux, Ansible
+-	Méthodes/Principes: Agile, DevOps, FAIR, SOLID, IaC, Clean Code, Génie logiciel, Open Source
+
 
 
 <!--
