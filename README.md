@@ -11,6 +11,7 @@ Je m'intéresse notamment à tout ce qui touche la programmation par contraintes
 - Conception et analyse d'algorithmes [IFT-3001](https://www.ulaval.ca/etudes/cours/ift-3001-conception-et-analyse-dalgorithmes) - 2024
 - Développement d'applications Web [GLO-3102](https://www.ulaval.ca/etudes/cours/glo-3102-developpement-dapplications-web) - 2024
 - Modèles et langages des bases de données pour ingénieurs [GLO-2005](https://www.ulaval.ca/etudes/cours/glo-2005-modeles-et-langages-des-bases-de-donnees-pour-lingenierie)	- 2023
+- Architecture logicielle [GLO-4003](https://www.ulaval.ca/etudes/cours/glo-4003-architecture-logicielle) - 2025
 - Applications infonuagiques natives et DevOps [GLO-4008](https://www.ulaval.ca/etudes/cours/glo-4008-applications-infonuagiques-natives-et-devops) - 2025
 - Optmisation combinatoire [IFT-4001](https://inscription.monportail.ulaval.ca/etudes/inscription/cours/?session=202409&cours=IFT-4001) - 2025
 ### Formations complémentaires (en cours)
