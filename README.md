@@ -27,6 +27,9 @@ Finissant du Baccalauréat en Génie Logiciel (décembre 2025), je suis à la re
 -	Langages: Rust, C++, Python, SQL, C#, Java, JavaScript/HTML/CSS
 -	Technologies: Docker, Kubernetes, Pipelines, Linux, Ansible
 -	Méthodes/Principes: Agile, DevOps, FAIR, SOLID, IaC, Clean Code, Génie logiciel, Open Source
+### Livres de programmation intéressants 📖
+- [Rust book](https://doc.rust-lang.org/book/)
+- [The Road to React](https://www.roadtoreact.com/)
 
 
 
