@@ -4,7 +4,7 @@ Finissant du Baccalauréat en Génie Logiciel (décembre 2025), je suis à la re
 - courriel: jeremie.bernard.1@ulaval.ca
 - LinkedIn: https://www.linkedin.com/in/jeremiebernard-linkdin/
 ### Projet bénévole
-- CrateMe!: gestion d'inventaire infonuagique pour MonÉquilibre ULaval https://github.com/CrateME-UL
+- [CrateMe!](https://github.com/CrateME-UL): gestion d'inventaire infonuagique pour MonÉquilibre ULaval - Full Stack (Cloud AWS, Rust, React/Typescript, Docker, Kubernetes, PostgreSQL, HCL)
 ### Cours universitaires pertinents (Université Laval)
 - Qualité et métriques du logiciel [GLO-4002](https://www.ulaval.ca/etudes/cours/glo-4002-qualite-et-metriques-du-logiciel)	- 2024
 - Conception et analyse d'algorithmes [IFT-3001](https://www.ulaval.ca/etudes/cours/ift-3001-conception-et-analyse-dalgorithmes) - 2024
@@ -22,7 +22,7 @@ Finissant du Baccalauréat en Génie Logiciel (décembre 2025), je suis à la re
 - RéseauPartage: Réseau social
 - UFood: Carte intéractive des restaurants de Québec
 - ...et bien plus!
-### Compétences en informatique:
+### Compétences en informatique
 -	Infonuagique: AWS, Azure, OpenTofu (HCL)
 -	Langages: Rust, C++, Python, SQL, C#, Java, JavaScript/HTML/CSS
 -	Technologies: Docker, Kubernetes, Pipelines, Linux, Ansible
