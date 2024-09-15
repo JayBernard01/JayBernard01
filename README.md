@@ -6,10 +6,10 @@ Finissant du Baccalauréat en Génie Logiciel (décembre 2025), je suis à la re
 ### Projet bénévole
 - CrateMe!: gestion d'inventaire infonuagique pour MonÉquilibre ULaval https://github.com/CrateME-UL
 ### Cours universitaires pertinents (Université Laval)
-- Qualité et métriques du logiciel [GLO-4002]	2024
-- Conception et analyse d'algorithmes [IFT-3001]	2024
-- Développement d'applications Web [GLO-3102]	2024
-- Modèles et langages des bases de données pour ingénieurs [GLO-2005]	2023
+- Qualité et métriques du logiciel [GLO-4002](https://www.ulaval.ca/etudes/cours/glo-4002-qualite-et-metriques-du-logiciel)	- 2024
+- Conception et analyse d'algorithmes [IFT-3001](https://www.ulaval.ca/etudes/cours/ift-3001-conception-et-analyse-dalgorithmes) - 2024
+- Développement d'applications Web [GLO-3102](https://www.ulaval.ca/etudes/cours/glo-3102-developpement-dapplications-web) - 2024
+- Modèles et langages des bases de données pour ingénieurs [GLO-2005](https://www.ulaval.ca/etudes/cours/glo-2005-modeles-et-langages-des-bases-de-donnees-pour-lingenierie)	- 2023
 ### Formations complémentaires (en cours)
 - [AWS Certified Solutions Architect - Associate](https://aws.amazon.com/certification/certified-solutions-architect-associate/)
 - [Certified Kubernetes Administrator (CKA)](https://training.linuxfoundation.org/certification/certified-kubernetes-administrator-cka/)
