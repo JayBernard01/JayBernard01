@@ -1,15 +1,25 @@
 ## Hi there 👋
+Finissant du Baccalauréat en Génie Logiciel (décembre 2025), je suis à la recherche d'un stage pour l'été 2025 ;)
 ### Écrivez-moi par courriel ou sur LinkedIn pour avoir accès à mes projets d'études
 - courriel: jeremie.bernard.1@ulaval.ca
 - LinkedIn: https://www.linkedin.com/in/jeremiebernard-linkdin/
+### Projet bénévole
+- CrateMe!: gestion d'inventaire infonuagique pour MonÉquilibre ULaval https://github.com/CrateME-UL
+### Cours universitaires pertinents (Université Laval)
+- Qualité et métriques du logiciel [GLO-4002]	2024
+- Conception et analyse d'algorithmes [IFT-3001]	2024
+- Développement d'applications Web [GLO-3102]	2024
+- Modèles et langages des bases de données pour ingénieurs [GLO-2005]	2023
+### Formations complémentaires (en cours)
+- [AWS Certified Solutions Architect - Associate](https://aws.amazon.com/certification/certified-solutions-architect-associate/)
+- [Certified Kubernetes Administrator (CKA)](https://training.linuxfoundation.org/certification/certified-kubernetes-administrator-cka/)
 ### Liste de projets d'études
 - ChalCLT: Constructeur de chalet sur mesure STL
 - Restalo: Système de réservation de restaurants
 - RéseauPartage: Réseau social
 - UFood: Carte intéractive des restaurants de Québec
 - ...et bien plus!
-### Projet bénévole
-- CrateMe!: gestion d'inventaire infonuagique pour MonÉquilibre ULaval https://github.com/CrateME-UL
+
 
 <!--
 **JayBernard01/JayBernard01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
