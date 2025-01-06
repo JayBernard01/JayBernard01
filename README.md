@@ -1,39 +1,43 @@
 ## Hi there 👋
-Finissant du Baccalauréat en Génie Logiciel (décembre 2025), je suis à la recherche d'un stage pour l'été 2025 😉
-Je m'intéresse notamment à tout ce qui touche la programmation par contraintes, l'infonuagique et les bases de données!
+Finissant du Baccalauréat en Génie Logiciel (décembre 2025), je suis à la recherche d'un stage pour l'été 2025.
 ### Écrivez-moi par courriel ou sur LinkedIn pour avoir accès à mes projets d'études
 - courriel: jeremie.bernard.1@ulaval.ca
 - LinkedIn: https://www.linkedin.com/in/jeremiebernard-linkdin/
+### Compétences en informatique
+-	Infonuagique: AWS, Azure
+-	Langages: Go, Rust, C++, Python, SQL, C#, Java, JavaScript/HTML/CSS
+-	Frameworks: React, Vue, HTMX, Django
+-	Technologies: Docker, Kubernetes, Pipelines, Linux, Git
+### Stages en informatique
+- Informatique médicale (Inst. Univ. Cardiologie et de Pneumologie de Québec) -	été 2024 - DevOps (Docker, Kubernetes/OpenShift, Pipelines, Django, Python, Keycloak, DICOM)
+  - Projets: Configurer et déployer des systèmes de collections d'imageries médicales pour l'authentification, la dépersonnalisation, la visualisation et le stockage des données sous le format DICOM
+- Administrateur des bases de données Ministère de la Justice du Québec (MJQ) -	été 2023 - Full Stack (C#, .NET, Blazor, Cloud Azure, SQL Server) et DBA
+  - Projet: Système de suivi des traitements en lots des serveurs du MJQ
 ### Projet bénévole
-- [CrateMe!](https://github.com/CrateME-UL): gestion d'inventaire infonuagique pour MonÉquilibre ULaval - Full Stack (Cloud AWS, Rust, React/Typescript, Docker, Kubernetes, PostgreSQL, HCL)
-### Cours universitaires pertinents (Université Laval)
-- Qualité et métriques du logiciel [GLO-4002](https://www.ulaval.ca/etudes/cours/glo-4002-qualite-et-metriques-du-logiciel)	- 2024
-- Conception et analyse d'algorithmes [IFT-3001](https://www.ulaval.ca/etudes/cours/ift-3001-conception-et-analyse-dalgorithmes) - 2024
-- Développement d'applications Web [GLO-3102](https://www.ulaval.ca/etudes/cours/glo-3102-developpement-dapplications-web) - 2024
-- Modèles et langages des bases de données pour ingénieurs [GLO-2005](https://www.ulaval.ca/etudes/cours/glo-2005-modeles-et-langages-des-bases-de-donnees-pour-lingenierie)	- 2023
-- Architecture logicielle [GLO-4003](https://www.ulaval.ca/etudes/cours/glo-4003-architecture-logicielle) - 2025
-- Applications infonuagiques natives et DevOps [GLO-4008](https://www.ulaval.ca/etudes/cours/glo-4008-applications-infonuagiques-natives-et-devops) - 2025
-- Optmisation combinatoire [IFT-4001](https://inscription.monportail.ulaval.ca/etudes/inscription/cours/?session=202409&cours=IFT-4001) - 2025
+- [CrateMe!](https://github.com/CrateME-UL): gestion d'inventaire infonuagique pour MonÉquilibre ULaval - Full Stack (AWS, Go, HTMX, Docker, Kubernetes, PostgreSQL, HCL)
+### Liste de projets d'études
+- Organisation d'un festival cosmique de musique! (Java - Domaine Riche) - 2024
+- Gestionnaire de mots de passes cryptographique (C++) - 2024
+- Restalo: Système de réservation de restaurants (Java) - 2024
+- UFood: Carte intéractive des restaurants de Québec (JavaScript/HTML/CSS, Vue) - 2024
+- ChalCLT: Constructeur de chalet sur mesure STL (Java) - 2023
+- Planificateur pour le chemin le plus rapide en autobus (C++) - 2023
+- RéseauPartage: Réseau social (MySQL, Python, JavaScript/HTML/CSS) - 2023
+- Gestionnaire de bibliothèque (C++) - 2022
+- Jeu Gobblet (Pyhton) - 2022
+- Partenariat avec une commission scolaire pour l'accès à l'emplois (Flutter, Dart, PHP, SQL) - 2021
+- Projet de robotique d'Haloween - 2018
+- Générateur de sudoku (Visual Basic) - 2017
+- Jeu simulateur d'entreprise (Visual Basic) - 2017
+- Tic-Tac-Toe Bot (Visual Basic) - 2016
 ### Formations complémentaires (en cours)
 - [AWS Certified Solutions Architect - Associate](https://aws.amazon.com/certification/certified-solutions-architect-associate/)
 - [Certified Kubernetes Administrator (CKA)](https://training.linuxfoundation.org/certification/certified-kubernetes-administrator-cka/)
-### Stages en informatique
-- Informatique médicale (Inst. Univ. Cardiologie et de Pneumologie de Québec) -	été 2024 - DevOps (Docker, Kubernetes/OpenShift, Pipelines, Django, Python) 
-- Administrateur des bases de données (Ministère de la Justice du Québec) -	été 2023 - Full Stack (C#, .NET, Blazor, Cloud Azure, SQL Server) et DBA
-### Liste de projets d'études
-- ChalCLT: Constructeur de chalet sur mesure STL
-- Restalo: Système de réservation de restaurants
-- RéseauPartage: Réseau social
-- UFood: Carte intéractive des restaurants de Québec
-- ...et bien plus!
-### Compétences en informatique
--	Infonuagique: AWS, Azure, OpenTofu (HCL)
--	Langages: Rust, C++, Python, SQL, C#, Java, JavaScript/HTML/CSS
--	Technologies: Docker, Kubernetes, Pipelines, Linux, Ansible
--	Méthodes/Principes: Agile, DevOps, FAIR, SOLID, IaC, Clean Code, Génie logiciel, Open Source
-### Livres de programmation intéressants 📖
+### Livres de programmation complémentaires 📖
 - [Rust book](https://doc.rust-lang.org/book/)
 - [The Road to React](https://www.roadtoreact.com/)
+- [100 Go Mistakes and How to Avoid Them](https://www.manning.com/books/100-go-mistakes-and-how-to-avoid-them)
+- [Hypermedia Systems](https://hypermedia.systems/book/contents/)
 
 
 
