@@ -15,6 +15,7 @@ Finissant du Baccalauréat en Génie Logiciel (décembre 2025), je suis à la re
   - Projet: Système de suivi des traitements en lots des serveurs du MJQ
 ### Projet bénévole
 - [CrateMe!](https://github.com/CrateME-UL): gestion d'inventaire infonuagique pour MonÉquilibre ULaval - Full Stack (AWS, Go, HTMX, Docker, Kubernetes, PostgreSQL, HCL)
+  - Voir la version legacy en Rust-React/TypeScript également
 ### Liste de projets d'études
 - Organisation d'un festival cosmique de musique! (Java - Domaine Riche) - 2024
 - Gestionnaire de mots de passes cryptographique (C++) - 2024
