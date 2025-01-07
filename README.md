@@ -5,7 +5,7 @@ Finissant du Baccalauréat en Génie Logiciel (décembre 2025), je suis à la re
 - LinkedIn: https://www.linkedin.com/in/jeremiebernard-linkdin/
 
 ### Projet bénévole
-- [CrateMe!](https://github.com/CrateME-UL): gestion d'inventaire infonuagique pour MonÉquilibre ULaval - Full Stack (AWS, Go, HTMX, Docker, Kubernetes, PostgreSQL, HCL)
+- [CrateMe!](https://github.com/CrateME-UL): gestion d'inventaire infonuagique pour MonÉquilibre ULaval - Full Stack (AWS, Go, HTMX, Docker, Docker Swarm, PostgreSQL, Terraform, Github Actions, Jira)
   - Voir la version legacy en Rust-React/TypeScript également
 
 ### Liste de projets d'études
