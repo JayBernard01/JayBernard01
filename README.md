@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hello there 👋
 Finissant du Baccalauréat en Génie Logiciel (décembre 2025), je suis à la recherche d'un stage pour l'été 2025.
 ### Écrivez-moi par courriel ou sur LinkedIn pour avoir accès à mes projets d'études
 - courriel: jeremie.bernard.1@ulaval.ca
