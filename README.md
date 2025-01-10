@@ -7,7 +7,6 @@ Finissant du Baccalauréat en Génie Logiciel (décembre 2025), je suis à la re
 ### Projet bénévole
 - [CrateMe!](https://github.com/CrateME-UL): gestion d'inventaire infonuagique pour MonÉquilibre ULaval - Full Stack (AWS, Go, HTMX, Docker, Docker Swarm, PostgreSQL, Terraform, Github Actions, Jira)
   - Voir la version legacy en Rust-React/TypeScript également
-  - (ajouter du contexte sur le fait que c'est un projet personnel également de mon initiative)
 
 ### Liste de projets d'études
 - Organisation d'un festival cosmique de musique! (Java - Domaine Riche) - 2024
