@@ -5,8 +5,9 @@ Finissant du Baccalauréat en Génie Logiciel (décembre 2025), je suis à la re
 - LinkedIn: https://www.linkedin.com/in/jeremiebernard-linkdin/
 
 ### Projet bénévole
-- [CrateMe!](https://github.com/CrateME-UL): gestion d'inventaire infonuagique pour MonÉquilibre ULaval - Full Stack (AWS, Go, HTMX, Docker, Docker Swarm, PostgreSQL, Terraform, Github Actions, Jira)
-  - Voir la version legacy en Rust-React/TypeScript également
+- Initiative personnelle
+- [CrateMe!](https://github.com/CrateME-UL/meul-inventory): gestion d'inventaire infonuagique pour MonÉquilibre ULaval - Full Stack (AWS, Go, HTMX, Docker, Docker Swarm, PostgreSQL, Terraform, Github Actions, Jira)
+- Voir la version legacy en [Rust](https://github.com/CrateME-UL/INV-Backend) et [React/TypeScript](https://github.com/CrateME-UL/INV-Frontend) également
 
 ### Liste de projets d'études
 - Organisation d'un festival cosmique de musique! (Java - Domaine Riche) - 2024
